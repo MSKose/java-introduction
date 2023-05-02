@@ -1,4 +1,4 @@
-package JavaLecture3;
+package javalecture3;
 
 public class MainClass {
 	public static void main(String[] args) {

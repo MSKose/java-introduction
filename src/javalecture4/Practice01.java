@@ -1,4 +1,4 @@
-package JavaLecture4;
+package javalecture4;
 
 public class Practice01 {
 	public static void main(String[] args) {
