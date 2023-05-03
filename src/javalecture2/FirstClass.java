@@ -1,4 +1,4 @@
-package javalectures2;
+package javalecture2;
 
 public class FirstClass {
 	
