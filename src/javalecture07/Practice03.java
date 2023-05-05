@@ -1,4 +1,4 @@
-package javalecture7;
+package javalecture07;
 
 public class Practice03 {
 	public static void main(String[] args) {

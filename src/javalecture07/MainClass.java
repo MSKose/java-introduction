@@ -1,4 +1,4 @@
-package javalecture7;
+package javalecture07;
 
 public class MainClass {
 

@@ -1,4 +1,4 @@
-package javalecture9;
+package javalecture09;
 
 public class Practice01 {
 	public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package javalecture8;
+package javalecture08;
 
 public class Practice01 {
 

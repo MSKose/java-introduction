@@ -1,4 +1,4 @@
-package javalecture4;
+package javalecture04;
 
 public class MainClass {
 
