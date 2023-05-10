@@ -16,7 +16,6 @@ public class Practice01 {
 		
 		int bigNum = s2 > s1 ? s2 : s1;
 		
-		System.out.println("Big num is: " + bigNum);
 	}
 
 }
